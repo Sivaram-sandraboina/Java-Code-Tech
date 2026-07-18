@@ -6,6 +6,12 @@ Java Code Tech
 - Swapping number
 - Swapping with out using extra variable
 
+-Day 02 Programs
+- CheckLeapYear
+- FactorialOfNumber
+- FindingLargestInteger
+- ReverseNumber
+
 
  ## Technologies Used
 
