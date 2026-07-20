@@ -1,4 +1,4 @@
-package com.sivaram_day01;
+package com.sivaram.day01;
 /**
  * Program: SWAPPING_WITHOUT_NEW_VARIABLE
  * Author: Sivaram
