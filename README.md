@@ -20,6 +20,12 @@ Java Code Tech
 - PrintPrime M to N
 - Sum Of Prime Numbers
 
+-Day 04 Programs
+- Count Numbers
+- Factors Of Number
+- Factors Sum
+- Sum Of Number
+
 
  ## Technologies Used
 
