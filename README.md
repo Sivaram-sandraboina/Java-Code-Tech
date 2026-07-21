@@ -26,6 +26,13 @@ Java Code Tech
 - Factors Sum
 - Sum Of Number
 
+-Day 05 programs(arrays)
+
+- Minimum Value From Elements
+- Max Value From Elements
+- Second Minimum Value From Elements
+- Second Max Value From Elements
+
 
  ## Technologies Used
 
