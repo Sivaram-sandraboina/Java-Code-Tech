@@ -1,4 +1,10 @@
 package com.sivaram.day04;
+/**
+ * Program: FactorsOfnumber
+ * Author: Sivaram
+ * Day: 04
+ * Description: FactorsOfnumber , FactorsOfnumber from user inputs .
+ */
 import java.util.Scanner;
 public class FactorsOfnumber {
 

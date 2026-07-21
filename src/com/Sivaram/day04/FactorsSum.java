@@ -1,4 +1,10 @@
 package com.sivaram.day04;
+/**
+ * Program: FactorsSum
+ * Author: Sivaram
+ * Day: 04
+ * Description: FactorsSum , FactorsSum from user inputs .
+ */
 import java.util.Scanner;
 public class FactorsSum {
 
