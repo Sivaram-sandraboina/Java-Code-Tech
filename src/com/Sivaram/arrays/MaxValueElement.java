@@ -1,4 +1,10 @@
 package com.sivaram.arrays;
+/**
+ * Program: MaxValueElement
+ * Author: Sivaram
+ * Day: 05
+ * Description: HELP TO USER  TO GET MAXIMUM VALUE FROM GIVEN NUMBERS . 
+ */
 import java.util.Scanner;
 public class MaxValueElement {
 

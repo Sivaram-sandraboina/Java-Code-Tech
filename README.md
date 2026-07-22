@@ -33,6 +33,13 @@ Java Code Tech
 - Second Minimum Value From Elements
 - Second Max Value From Elements
 
+-Day 06 programs(arrays)
+
+- Ascending Order Elements Print
+- Descending Order Elements Print
+- Reverse Elements From Array
+- Multipule Of Elements 
+
 
  ## Technologies Used
 

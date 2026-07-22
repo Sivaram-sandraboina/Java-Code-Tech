@@ -1,4 +1,10 @@
 package com.sivaram.arrays;
+/**
+ * Program: SecondMaxNumber
+ * Author: Sivaram
+ * Day: 05
+ * Description: HELP TO USER  TO GET Second Max Number VALUE FROM GIVEN NUMBERS . 
+ */
 import java.util.Scanner;
 public class SecondMaxNumber {
 
