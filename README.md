@@ -40,6 +40,11 @@ Java Code Tech
 - Reverse Elements From Array
 - Multipule Of Elements 
 
+-Day 07 programs(Array Pairs)
+- Pair Print AsPer Condition
+- Pairs Sum
+- Pairs Print 
+
 
  ## Technologies Used
 
