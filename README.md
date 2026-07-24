@@ -45,6 +45,12 @@ Java Code Tech
 - Pairs Sum
 - Pairs Print 
 
+-Day 08 programs(Re Arrange Arrays)
+ 
+- Re Arrange As Gradding
+- Re Arrange Negatives To End
+- Re Arrange Zeros To End
+
 
  ## Technologies Used
 
