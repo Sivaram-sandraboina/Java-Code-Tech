@@ -1,4 +1,10 @@
 package com.sivaram.arrays;
+/**
+ * Program: ReArrangeNagativesToEnd
+ * Author: Sivaram
+ * Day: 08
+ * Description: HELP TO USER  TO Print Re Arrange Negatives To End . 
+ */
 import java.util.Scanner;
 public class ReArrangeNagativesToEnd {
 

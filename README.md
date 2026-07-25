@@ -51,6 +51,10 @@ Java Code Tech
 - Re Arrange Negatives To End
 - Re Arrange Zeros To End
 
+-Day 09 programs(Sub Arrays )
+- Sub Array As Per Condition
+- Sub Array As Per Size
+- Sub Array Sum As Per Size
 
  ## Technologies Used
 
