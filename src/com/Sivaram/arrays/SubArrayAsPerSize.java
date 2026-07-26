@@ -1,4 +1,10 @@
 package com.sivaram.arrays;
+/**
+ * Program: SubArrayAsPerSize
+ * Author: Sivaram
+ * Day: 09
+ * Description: HELP TO USER  TO Print Sub Array As PerSize . 
+ */
 import java.util.Scanner;
 public class SubArrayAsPerSize {
 

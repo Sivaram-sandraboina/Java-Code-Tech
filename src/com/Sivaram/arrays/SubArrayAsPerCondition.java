@@ -1,4 +1,10 @@
 package com.sivaram.arrays;
+/**
+ * Program: SubArrayAsPerCondition
+ * Author: Sivaram
+ * Day: 09
+ * Description: HELP TO USER  TO Print Sub Array As Per Condition . 
+ */
 import java.util.Scanner;
 public class SubArrayAsPerCondition {
 
