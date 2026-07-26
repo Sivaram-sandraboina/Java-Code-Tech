@@ -56,6 +56,13 @@ Java Code Tech
 - Sub Array As Per Size
 - Sub Array Sum As Per Size
 
+-Day 10 programs(Pattern Programs)
+- Column Pattern Printing 
+- Holly Square Pattern 
+- Row Pattern 
+- Square Pattern 
+
+
  ## Technologies Used
 
 - Java
