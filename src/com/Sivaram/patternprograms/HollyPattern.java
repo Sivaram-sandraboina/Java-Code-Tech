@@ -1,4 +1,10 @@
 package com.sivaram.patternprograms;
+/**
+ * Program: HollyPattern
+ * Author: Sivaram
+ * Day: 10
+ * Description: HELP TO USER  TO Print Holly Pattern . 
+ */
 import java.util.Scanner;
 public class HollyPattern {
 

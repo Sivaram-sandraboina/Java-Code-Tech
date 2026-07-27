@@ -1,20 +1,19 @@
 package com.sivaram.patternprograms;
 /**
- * Program: ColumnPattern
+ * Program: RightAngleColumnPattern
  * Author: Sivaram
- * Day: 10
- * Description: HELP TO USER  TO Print Column Pattern . 
+ * Day: 11
+ * Description: HELP TO USER  TO Print Right Angle Column Pattern . 
  */
 import java.util.Scanner;
-public class ColumnPattern {
+public class RightAngleColumnPattern {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("ENTER THE NUMBER HERE : ");
 		int n = scan.nextInt();
-		System.out.println("EXPECTED OUT PUT : ");
 		for(int i = 1;i<=n;i++) {
-			for(int j = 1;j<=n;j++) {
+			for(int j = 1;j<=i;j++) {
 				System.out.print(j+" ");
 			}
 			System.out.println();
