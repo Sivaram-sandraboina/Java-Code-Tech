@@ -67,6 +67,11 @@ Java Code Tech
 - Right Angle Row Pattern 
 - Right Triangle Pattern 
 
+-Day 12 Programs(Pattern Programs Reverse Right Angles )
+- Reverse Column Triangle
+- Reverse Row Triangle 
+- Reverse Triangle
+
 
  ## Technologies Used
 
