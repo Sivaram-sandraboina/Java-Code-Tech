@@ -1,4 +1,10 @@
 package com.sivaram.strings;
+/**
+ * Program: SpaceCount
+ * Author: Sivaram
+ * Day: 13
+ * Description: HELP TO USER  TO Print String Character Count . 
+ */
 import java.util.Scanner;
 public class StringCharacterCount {
 

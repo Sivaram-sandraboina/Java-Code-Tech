@@ -1,4 +1,10 @@
 package com.sivaram.strings;
+/**
+ * Program: ReverseString
+ * Author: Sivaram
+ * Day: 13
+ * Description: HELP TO USER  TO Print Reverse String . 
+ */
 import java.util.Scanner;
 public class ReverseString {
 
