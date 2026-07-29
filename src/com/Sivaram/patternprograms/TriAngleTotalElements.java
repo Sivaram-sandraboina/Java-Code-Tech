@@ -1,4 +1,10 @@
 package com.sivaram.patternprograms;
+/**
+ * Program: TriAngleTotalElements
+ * Author: Sivaram
+ * Day: 12
+ * Description: HELP TO USER  TO Print Reverse Tri Angle Total Elements. 
+ */
 import java.util.Scanner;
 public class TriAngleTotalElements {
 

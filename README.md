@@ -71,6 +71,12 @@ Java Code Tech
 - Reverse Column Triangle
 - Reverse Row Triangle 
 - Reverse Triangle
+- Triangle Total Elements
+
+Day 13 Programs(Strings )
+- Reverse String Print
+- Space Count from String
+- String Character Count
 
 
  ## Technologies Used
