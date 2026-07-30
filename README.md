@@ -73,10 +73,15 @@ Java Code Tech
 - Reverse Triangle
 - Triangle Total Elements
 
-Day 13 Programs(Strings )
+-Day 13 Programs(Strings )
 - Reverse String Print
 - Space Count from String
 - String Character Count
+
+-Day 14 Programs(String Vowels)
+- Vowel Count
+- Vowel Print
+- Vowel Remove
 
 
  ## Technologies Used
