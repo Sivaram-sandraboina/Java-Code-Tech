@@ -1,4 +1,10 @@
 package com.sivaram.strings;
+/**
+ * Program: VowelRemove
+ * Author: Sivaram
+ * Day: 14
+ * Description: HELP TO USER  TO Print String Vowel Remove . 
+ */
 import java.util.Scanner;
 public class VowelRemove {
 

@@ -1,6 +1,6 @@
 package com.sivaram.strings;
 /**
- * Program: SpaceCount
+ * Program: VowelCount
  * Author: Sivaram
  * Day: 14
  * Description: HELP TO USER  TO Print String Vowel Count . 

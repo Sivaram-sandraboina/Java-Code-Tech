@@ -1,4 +1,10 @@
 package com.sivaram.strings;
+/**
+ * Program: VowelPrint
+ * Author: Sivaram
+ * Day: 14
+ * Description: HELP TO USER  TO Print String Vowel Print . 
+ */
 import java.util.Scanner;
 public class VowelPrint {
 
