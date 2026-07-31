@@ -83,6 +83,9 @@ Java Code Tech
 - Vowel Print
 - Vowel Remove
 
+-Day 15 Programs(Logic based )
+- Armstrong Number check
+
 
  ## Technologies Used
 
