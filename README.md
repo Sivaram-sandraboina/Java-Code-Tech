@@ -85,6 +85,8 @@ Java Code Tech
 
 -Day 15 Programs(Logic based )
 - Armstrong Number check
+- Check Number Is Palindrome Or Not Palindrome
+- Check String Is Palindrome Or Not Palindrome
 
 
  ## Technologies Used
