@@ -88,6 +88,12 @@ Java Code Tech
 - Check Number Is Palindrome Or Not Palindrome
 - Check String Is Palindrome Or Not Palindrome
 
+-Day 16 Programs(String Case Change)
+
+- String Case Swapping
+- String Convert Upper To Lower Case
+- String Convert Lower To Upper Case
+
 
  ## Technologies Used
 
