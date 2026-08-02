@@ -94,6 +94,11 @@ Java Code Tech
 - String Convert Upper To Lower Case
 - String Convert Lower To Upper Case
 
+-Day 17 Programs(Logic Base )
+
+- Duplicates Only Print
+- Duplicates Remove Print Each Element Once Only
+- Duplicates With Sorting Order 
 
  ## Technologies Used
 
