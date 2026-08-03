@@ -100,6 +100,9 @@ Java Code Tech
 - Duplicates Remove Print Each Element Once Only
 - Duplicates With Sorting Order 
 
+-Day 18 Programs(Logic Base)
+- Missing Elements Print 
+
  ## Technologies Used
 
 - Java
