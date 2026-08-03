@@ -102,6 +102,7 @@ Java Code Tech
 
 -Day 18 Programs(Logic Base)
 - Missing Elements Print 
+- Missing Elements Count Print
 
  ## Technologies Used
 
