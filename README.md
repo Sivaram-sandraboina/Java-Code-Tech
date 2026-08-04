@@ -105,6 +105,12 @@ Java Code Tech
 - Missing Elements Count Print
 - Rotation Array first to last(Arrays)
 
+-Day 19 Programs(String Length Based )
+- Maximum Size String Print
+- Minimum Size String Print
+- Minimum Length Of Word Print
+- Maximum Length Of Word Print 
+
  ## Technologies Used
 
 - Java
