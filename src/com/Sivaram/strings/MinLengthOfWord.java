@@ -1,9 +1,9 @@
 package com.sivaram.strings;
 /**
- * Program: MaxLengthOfWord 
+ * Program: MinLengthOfWord
  * Author: Sivaram
  * Day: 19
- * Description: HELP TO USER  TO Print Max Length Of Word . 
+ * Description: HELP TO USER  TO Print Minimum Length Of Word . 
  */
 import java.util.Scanner;
 public class MinLengthOfWord {
