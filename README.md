@@ -111,6 +111,11 @@ Java Code Tech
 - Minimum Length Of Word Print
 - Maximum Length Of Word Print 
 
+-Day 20 Programs(String Repeated Character Based )
+
+- First Non Repeated Character Print
+- Last Non Repeated Character Print
+
  ## Technologies Used
 
 - Java
