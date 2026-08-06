@@ -116,6 +116,11 @@ Java Code Tech
 - First Non Repeated Character Print
 - Last Non Repeated Character Print
 
+-Day 21 Programs(String Based)
+- Ascending Order String Print
+- Descending Order String Print
+- Anagram Check From Two Strings 
+
  ## Technologies Used
 
 - Java
