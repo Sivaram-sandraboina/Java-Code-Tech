@@ -121,6 +121,11 @@ Java Code Tech
 - Descending Order String Print
 - Anagram Check From Two Strings 
 
+-Day 22 Programs(String Words)
+- Word Each Character Reverse
+- Word Size Count
+- Words Reverse
+
  ## Technologies Used
 
 - Java
