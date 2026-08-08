@@ -126,6 +126,10 @@ Java Code Tech
 - Word Size Count
 - Words Reverse
 
+-Day 23 Program(Character Based)
+- Character ASCII Value Find And Print
+- Character Occurrence Find And Print
+
  ## Technologies Used
 
 - Java
