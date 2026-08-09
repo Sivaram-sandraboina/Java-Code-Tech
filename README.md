@@ -130,6 +130,10 @@ Java Code Tech
 - Character ASCII Value Find And Print
 - Character Occurrence Find And Print
 
+-Day 24 Program(Array Based)
+- Occurrence Of Element 
+
+
  ## Technologies Used
 
 - Java
