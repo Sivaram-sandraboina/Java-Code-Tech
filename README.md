@@ -133,6 +133,9 @@ Java Code Tech
 -Day 24 Program(Array Based)
 - Occurrence Of Element 
 
+-Day 25 Program(Array Based)
+- Finding Duplicate Elements And Print
+
 
  ## Technologies Used
 
