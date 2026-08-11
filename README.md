@@ -136,6 +136,10 @@ Java Code Tech
 -Day 25 Program(Array Based)
 - Finding Duplicate Elements And Print
 
+-Day 26 Program(Pattern)
+- Pyramid Pattern Print
+- Pyramid Hollow Pattern Print
+
 
  ## Technologies Used
 
