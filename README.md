@@ -140,6 +140,10 @@ Java Code Tech
 - Pyramid Pattern Print
 - Pyramid Hollow Pattern Print
 
+-Day 27 Program(Array based)
+- Printing Numbers From n1 To n2
+- Printing Numbers From n2 To n1(Reverse Order)
+
 
  ## Technologies Used
 
