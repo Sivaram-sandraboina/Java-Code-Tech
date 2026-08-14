@@ -143,6 +143,10 @@ Java Code Tech
 -Day 27 Program(Array based)
 - Printing Numbers From n1 To n2
 - Printing Numbers From n2 To n1(Reverse Order)
+ 
+ -Day 28 Program(Character Space Based)
+ - Space Remove And Print String 
+ - Character Count
 
 
  ## Technologies Used
