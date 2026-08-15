@@ -147,6 +147,11 @@ Java Code Tech
  -Day 28 Program(Character Space Based)
  - Space Remove And Print String 
  - Character Count
+ 
+ -Day 29 Program(Character Replace)
+ - Replace With Question 
+ - Replace With Star 
+ 
 
 
  ## Technologies Used
