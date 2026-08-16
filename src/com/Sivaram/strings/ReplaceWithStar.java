@@ -1,4 +1,10 @@
 package com.sivaram.strings;
+/**
+ * Program: ReplaceWithStar
+ * Author: Sivaram
+ * Day: 29
+ * Description: HELP TO USER  TO Print Replace With Star . 
+ */
 import java.util.Scanner;
 public class ReplaceWithStar {
 

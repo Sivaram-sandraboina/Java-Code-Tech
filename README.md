@@ -150,7 +150,12 @@ Java Code Tech
  
  -Day 29 Program(Character Replace)
  - Replace With Question 
- - Replace With Star 
+ - Replace With Star
+ 
+ -Day 30 Program(Logic Based)
+ - Hiding Evens With Symbol 
+ - Hiding Odds With Symbol
+ 
  
 
 
